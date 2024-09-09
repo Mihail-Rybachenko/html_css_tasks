@@ -1,0 +1,67 @@
+.zadanie28-2 {
+    td {
+        width: 400px;
+        height: 300px;
+    } 
+  }
+.zadanie25-1 {
+    p{
+    color: red;
+  }
+}
+.zadanie28-1{
+    p{
+        width: 300px;
+    }
+}
+.praktikaCssViravnivanie
+{
+    h1 {
+        text-align: right;
+    }
+
+    h2 {
+        width: 300px;
+        text-align: center ;
+    }
+
+    table {
+        width: 500px;
+    }
+
+    th {
+        text-align: left;
+    }
+
+    td {
+        text-align: center;
+    }
+    p
+    {
+        width: 300px;
+        text-align: justify;
+    }
+}
+
+h1 {
+    color: green;
+    
+}
+h2 {
+    
+    color: lightblue;
+    
+}
+h3 {
+    color: red;
+}
+h4 {
+	color: #FF4800;
+}
+h5 {
+    color: rgb(113, 9, 170)
+}
+
+p{
+    color:orange;
+}
