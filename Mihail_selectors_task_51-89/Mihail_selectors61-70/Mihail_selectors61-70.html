@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selectors</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Practice_Selectors</h1>
+    <h1>61#1</h1>
+    <h3>Селектор .eee .bbb выбирает все элементы с классом bbb, которые находятся внутри элемента с классом eee.</h3>
+    <div class="eee">
+        <h2 = class="bbb">Математика</h2>
+        <p class="bbb">sin^2 a + cos^2 a = 1</p>
+        <p>не относится к классу bbb</p>
+    </div>
+   <h1>61#2</h1>
+   <h3>Селектор .eee h2 Выбирает все элементы h2, к которым подключен класс .eee</h3>
+    <div class="eee">
+        <h2>Этот текст красный так как он вложен в класс eee</h2>
+        <p class="eee">а этот цвет не красный, так как его нет в классе eee</p>
+    </div>
+<h1>61#3</h1>
+<h3>Как и с первым заданием селектор .eee h2.bbb выбирает только заголовки h2 класса bbb включенным в класс eee</h3>
+<div class="eee">
+    <h2 class="bbb">Sans</h2>
+</div>
+<h1>61#4</h1>
+<h4>.eee h3.bbb то же самое, но с заголовком h3</h4>
+<div class="eee">
+    <h3 class="bbb">Papyrus</h3>
+</div>
+<h1>61#5</h1>
+<h4>То же самое, но с p</h4>
+<div class="eee">
+    <p class="bbb">Act</p>
+</div>
+<h1>61#6</h1>
+<h3>Селектор .eee .bbb .kkk будет выбирать только те элементы которые принадлежат классу "kkk" ему класс "bbb", а уже ему "eee" </h3>
+<div class="eee">
+    <div class="bbb">
+        <p = class="kkk">Item</p>
+    </div>
+</div>
+<h1>62#1</h1>
+<h3>Селектор p.bbb Выбирает все абзацы принадлежащие классу bbb</h3>
+<div class="bbb">
+<p class="bbb">Frisk</p>
+</div>
+<h1>62#2</h1>
+<h3>Селектор p .bbb Выбирает все элементы которые находятся внутри абзацев, принадлежащие классу bbb</h3>
+<p>
+	Apple: <span class="bbb">Red</span>
+</p>
+<h1>62#3</h1>
+<h3> Селектор .eee p.bbb выбирает все абзацы принадлежащие классу bbb, а он eee</h3>
+<div class="eee">
+    <p class="bbb">Justice</p>
+</div>
+<h1>62#4</h1>
+<h3> Селектор .eee p .bbb выбирает все элементы которые находятся внутри абзацев, принадлежащие классу bbb, а он eee</h3>
+<div class="eee">
+    <p>
+        Water: <span class="bbb">blue</span>
+    </p>
+</div>
+<h1>63#1</h1>
+<p class="success large">
+	Tea
+</p>
+<p class="error small">
+	WaterMelon
+</p>
+<p class="error large">
+	Coffee
+</p>
+<p class="success small">
+	Run
+</p>
+<h1>63#2</h1>
+<p class="color size family"> List </p>
+<h1>63#1</h1>
+<div id="elem1">
+	<h2>Title</h2>
+	<p>
+		text
+	</p>
+	<p>
+		text
+	</p>
+</div>
+<div id="elem2">
+	<h2>Title</h2>
+	<p>
+		text
+	</p>
+	<p>
+		text
+	</p>
+</div>
+<div id="elem3">
+	<h2>Title</h2>
+	<p>
+		text
+	</p>
+	<p>
+		text
+	</p>
+</div>
+<h1>65#1</h1>
+<div id="block" class="text">
+	<p>text</p>
+	<p>text</p>
+	<p>text</p>
+</div>
+<div class="text">
+	<p>text</p>
+	<p>text</p>
+	<p>text</p>
+</div>
+<h1>66#1</h1>
+<div id="elem">
+	<h2>Choose</h2>
+	<p>---</p>
+	
+	<h2>Choose</h2>
+	<p>---</p>
+</div>
+<h1>66#2</h1>
+<h2>Do not +++</h2>
+<p>---</p>
+<div id="elem">
+	<p class="text">+++</p>
+	<p class="text">+++</p>
+	
+	<ul>
+		<li class="text">+++</li>
+		<li class="text">+++</li>
+		<li class="text">+++</li>
+		<li>---</li>
+		<li>---</li>
+	</ul>
+</div>
+
+<p class="text">---</p>
+<h1>66#3</h1>
+<div id="elemm">
+	<p class="text">+++</p>
+	<p class="text">+++</p>
+	
+	<ul>
+		<li class="text">---</li>
+		<li class="text">---</li>
+		<li class="text">---</li>
+		<li>---</li>
+		<li>---</li>
+	</ul>
+</div>
+
+<p class="text">---</p>
+<h1>66#4</h1>
+<div id="elem">
+	<p class="text">---</p>
+	<p class="text">---</p>
+	
+	<ul>
+		<li class="text">+++</li>
+		<li class="text">+++</li>
+		<li class="text">+++</li>
+		<li>---</li>
+		<li>---</li>
+	</ul>
+</div>
+
+<p class="text">---</p>
+<h1>67#1</h1>
+<p class="eee">
+	This is a paragraph with text.
+</p>
+<p class="zzz">
+	This is a paragraph with text.
+</p>
+<p class="ccc">
+	This is a paragraph with text.
+</p>
+<p class="eee zzz ccc">
+	This is a paragraph with text.
+</p>
+<h1>68#1</h1>
+<h4>Несколько селекторов слитно в CSS.</h4>
+<p class="aaa fff">Этот текст будет красным.</p>
+<h3 class="aaa fff">Этот текст будет красным.</h3>
+<p class="aaa">Этот текст останется стандартного цвета, потому что у него нет класса zzz.</p>
+<p class="fff">Этот текст тоже останется стандартного цвета, потому что у него нет класса bbb.</p>
+<h1>68#2</h1>
+<h2 class="aaa fff">Этот заголовок будет красным.</h2>
+<h2 class="aaa">Этот текст останется стандартного цвета, потому что у него нет класса zzz.</h2>
+<h2 class="fff">Этот текст тоже останется стандартного цвета, потому что у него нет класса bbb.</h2>
+<h1>68#3</h1>
+    <p id="elemm" class="bbb">Текст красный</p>
+    <p id="elemm"> стандартный</p>
+    <h1>68#4</h1>
+    <p id="elem" class="rrr ppp">Красный цвет.</p>
+    <p id="elem">Этот текст не будет красным.</p>
+    <p class="rrr">Этот текст не будет красным.</p>
+    <h1>68#5</h1>
+<h2 id="elem" class="ppp">Red light</h2>
+<p id="elem" class="ppp">не относится к h2</p>
+<h1>69#1</h1>
+<h2 class="zzz">hero</h2>
+<h2>fd</h2>
+<h1>69#2</h1>
+<h2> Цвет обычный, так как находится не внутри h2
+    <div class="zzzs">Находится внутри заголовка h2</div>
+</h2>
+<h1>69#3</h1>
+<p class="ds wt">Blue light</p>
+<h1>69#4</h1>
+<div class="ds">
+<p class="wt">privet</p>
+</div>
+<h1>69#5</h1>
+<p class="ds wt tg">Red light</p>
+<h1>69#6</h1>
+<div class="ds">
+    <p class="wt tg">Lime</p>
+    </div>
+    <h1>69#7</h1>
+    <div class="ds wt">
+        <p class="tg">violet</p>
+        </div>
+<h1>69#8</h1>
+<div class="ds">
+    <div class="wt">
+    <p class="tg">Yellow</p>
+    </div>
+</div>
+<h1>69#9</h1>
+<p id="fix" class="bbb">Japan</p>
+<h1>69#10</h1>
+<div id="fix">
+    <p class="bbb">aqua</p>
+</div>
+<h1>70#1</h1>
+<div id="blocks">
+<h1>Mirius</h1>
+<h2>Pol</h2>
+<h3>xcvcc</h3>
+</div>
+<h1>70#2</h1>
+<div id="blocks2">
+    <h1>Mirius</h1>
+    <h2>Pol</h2>
+    <h3>xcvcc</h3>
+    </div>
+</body>
+</html>

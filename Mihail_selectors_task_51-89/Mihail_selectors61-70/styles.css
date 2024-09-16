@@ -1,0 +1,148 @@
+.eee .bbb {
+	color: red;
+}
+
+.eee h2 {
+	color: red;
+}
+
+.eee h2.bbb {
+	color: red;
+}
+.eee h3.bbb {
+	color: red;
+}
+.eee p.bbb {
+	color: red;
+}
+.eee .bbb .kkk {
+	color: rgb(0, 128, 102);
+}
+p.bbb {
+	color: red;
+}
+
+p .bbb {
+	color: red;
+}
+.eee p.bbb {
+	color: yellow;
+}
+.eee p .bbb {
+	color: blue;
+}
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+.color{
+	color:rgb(85, 255, 47)
+}
+.size{
+	font-size: 40px;
+}
+.family{
+	font-family: "Comic Sans MS";
+}
+#elem1{
+	color:red;
+}
+#elem2{
+	color: green;
+}
+#elem3{
+	color:aqua;
+}
+#block{
+	color: darkmagenta;
+}
+.text{
+	font-style: italic;
+}
+#elem h2{
+	color: aquamarine;
+}
+#elem .text{
+	color:brown;
+}
+#elemm p.text{
+	color:violet;
+}
+#elem li.text{
+	color:rgb(255, 192, 216);
+}
+
+
+.eee.zzz.ccc{
+	font-size: 25px;
+	color:blue;
+}
+
+.aaa.fff{
+	color:red;
+}
+h2.aaa.fff{
+	color:red;
+}
+#elemm.bbb {
+	color: red;
+}
+#elem.ppp.rrr {
+	color: red;
+}
+h2#elem.ppp {
+	color: red;
+}
+
+h2.zzz {
+	color: red; /* выбирает все h2, которые находятся в классе zzz*/
+}
+h2 .zzzs {
+	color: red;
+}
+.ds.wt {
+	color: blue;
+}
+.ds .wt {
+	color: gold;
+}
+.ds.wt.tg {
+	color: red;
+}
+.ds .wt.tg {
+	color: rgb(0, 255, 42);
+}
+.ds.wt .tg {
+	color: rgb(255, 0, 204);
+}
+.ds .wt .tg {
+	color: rgb(251, 255, 0);
+}
+#fix.bbb {
+	color: red;
+}
+#fix .bbb {
+	color: rgb(0, 183, 255);
+}
+
+#blocks h1, #blocks h2 {
+	text-align: center;
+	color:red;
+}
+#blocks2 h1, #blocks2 h2 {
+	text-align: center;
+}
+#blocks2 h1{
+	font-size: 30px;
+}
+#blocks2 h2{
+	font-size: 20px;
+}
