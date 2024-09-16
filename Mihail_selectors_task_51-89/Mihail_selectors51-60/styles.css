@@ -1,0 +1,100 @@
+.zadanie51{
+    h1, h2, h3{
+        text-align: center;
+    }
+}
+.zadanie52-1{
+    h1, h2, h3{
+        text-align: center;
+    }
+    h2{
+        color: blue;
+    }
+    h3{
+        color:red;
+        font-size: 16px;
+    }
+}
+.zadanie52-2{
+    h1, h2, h3{
+        text-align: center;
+        color:red;
+    }
+    h3{
+        font-size: 16px;
+    }
+}
+.zadanie53-1{
+    ul li i {
+        color: red;
+    }
+    p i {
+        color: green;
+    }
+}
+.zadanie53-2{
+    p b i {
+        color: red;
+    }
+}
+.zadanie54-1{
+    li > b {
+        color: red;
+    }
+    
+}
+.odd{
+    color:red;
+}
+.eve{
+    color:green;
+}
+.eee{
+    color: red;
+}
+.xxx {
+    font-size: 30px;
+}
+.zadanie57-1{
+    color: red;
+}
+.zadanie57-2{
+    color: green;
+}
+.zadanie57-3{
+    color: rgb(0, 208, 255);
+}
+/*58#1*/
+.eeee {
+	font-size: 20px;
+}
+.zzz {
+	font-size: 30px;
+}
+.eeee, .zzz {
+	line-height: 1.5;
+    font-family: Arial;
+}
+/*58#2*/
+.eeee, .zzz, .ggg {
+	text-align: center;
+    font-family: Arial;
+}
+.ggg{
+font-size: 35px;
+}
+/*59#1*/
+.header{
+    color: red;
+}
+h2.header{
+    font-size: 40px;
+}
+h3.header{
+    font-size: 30px;
+}
+.eeeee{
+    i{
+        color:red;
+    }
+}
