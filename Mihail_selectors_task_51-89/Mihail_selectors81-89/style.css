@@ -1,0 +1,123 @@
+a:link {
+	color: blue;
+}
+a:visited {
+	color: green;
+}
+a:hover {
+	text-decoration: none;
+    color:red;
+}
+a:active {
+	color: black;
+}
+.task84 a {
+    color: blue; 
+    text-decoration: none; 
+}
+.task84 a:hover {
+    color: red; 
+    text-decoration: underline; 
+}
+#test a {
+	color: red;
+}
+#test a:hover {
+	text-decoration: none;
+}
+a.zzz {
+	color: red;
+}
+a.zzz:hover {
+	text-decoration: none;
+}
+#block a.zzz {
+	color: red;
+}
+#block a.zzz:hover {
+	text-decoration: none;
+}
+.block a.zzz {
+	color: red;
+}
+.block a.zzz:hover {
+	text-decoration: none;
+}
+
+
+.zadanie87-1 li:first-child{
+    color :red;
+}
+
+
+.zadanie87-2 li:last-child{
+    color : green;
+}
+
+.zadanie87-3 li:first-child{
+    color :red;
+}
+.zadanie87-3 li:last-child{
+    color : green;
+}
+
+.zadanie87-4 li:nth-child(3){
+    color : red;
+}
+
+.zadanie87-5 li:nth-child(odd){
+    color:red;
+}
+.zadanie87-5 li:nth-child(even){
+    color: green;
+}
+
+.zadanie87-6 li:nth-child(3n){
+    color:red;
+}
+
+.zadanie87-7 li:nth-last-child(2){
+    color:red; 
+}
+
+.zadanie87-8 li:only-child {
+	color: red;
+}
+
+.zadanie87-8 ul {
+	margin-bottom: 10px;
+}
+
+.zadanie87-9 li {
+    border: 1px solid red;
+    width: 100px;
+    padding: 5px;
+    margin-bottom: 10px;
+   }
+   .zadanie87-9 li:empty {
+    border: 1px solid blue;
+	width: 100px;
+   }
+
+   p:first-of-type {
+	color: rgb(0, 30, 255);
+}
+h3:last-of-type {
+	color: rgb(221, 0, 255);
+}
+p:nth-of-type(5) {
+    color: rgb(0, 255, 132);
+    font-style: italic;
+}
+h2:only-of-type {
+	color: yellow;
+}
+.zadanie89-1 li:not(li.elems){
+    color: rgb(51, 95, 255);
+}
+.zadanie89-2 li:not(:first-child){
+    color: rgb(51, 255, 126);
+}
+.zadanie89-3 li:not(:first-child, :last-child){
+    color:brown;
+}
