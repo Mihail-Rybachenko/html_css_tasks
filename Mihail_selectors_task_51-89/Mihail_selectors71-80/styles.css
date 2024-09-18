@@ -1,0 +1,110 @@
+
+#block h2 {
+	color: blue;
+}
+#block h3 {
+	font-size: 16px;
+	color: red;
+}
+
+#block h1, #block h2, #block h3 {
+	text-align: center;
+}
+#block h1.eee {
+	font-size: 30px;
+}
+#block h2.zzz {
+	font-size: 20px;
+}
+#blocks h1.eee, #blocks h2.zzz{
+    text-align: center;
+}
+
+#eee h2, .eee h2, .xxx .kkk{
+    text-align: center;
+}
+.eee h2.zzz, .xxx {
+	text-align: center;
+}
+.zadanie72-1 p{
+   color:red;
+}
+.zadanie72-2 h2{
+    color: aqua;
+}
+#blockk p{
+color: orange;
+}
+#blockss h2{
+    color: hotpink;
+    }
+.bbb{
+    color:blueviolet;
+}
+#block .bbbb{
+    color:brown;
+}
+p.bbbs {
+    color: green;
+}
+h2.bbbsa {
+    color: yellow;
+}
+#blockr p.bbbr {
+    color:salmon;
+}
+.bbbf, .xxxr{
+    color:blue;
+}
+p.bbbff, h2.xxxrr {
+    color: firebrick;
+}
+#blooock p.bbbq, #blooock p.xxxq{
+    color: red;
+    font-size: 50px;
+}
+.fff{
+    color:yellowgreen;
+}
+.ffff p{
+color:aqua;
+}
+.fffy .bbbi{
+    color: purple;
+}
+.fffo h2.bbbp{
+    color:gold;
+}
+#elem + li {
+    color:blue;
+}
+.elem1 + li{
+    color :red;
+}
+#elem2 ~ li {
+    color:green;
+}
+main * p {
+    color:blueviolet;
+}
+[title] {
+    color: orange; 
+}
+p[title1] {
+    color: red; 
+}
+p[title2 = "hello"] {
+    color: rgb(0, 21, 255); 
+}
+a[href^="http://"]{
+    color:aqua;
+}
+a[href$=".html"] {
+	color: red;
+}
+p[class~="hello"] {
+	color: rgb(0, 255, 42);
+}
+p[class|="top"] {
+	color: rgb(255, 119, 0);
+}
