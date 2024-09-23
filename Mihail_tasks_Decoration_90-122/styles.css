@@ -1,0 +1,150 @@
+#elem {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(159, 126, 235);
+}
+#elem1 {
+    width: 300px;
+    height: 200px;
+    color: white;
+    background-color: rgb(77, 238, 147);
+    font-size: 30px;
+    text-align: center;
+}
+#elem3 {
+	border-width: 5px;
+	border-style: solid;
+	border-color: blue;
+	width: 300px;
+	height: 200px;
+}
+#elem4 {
+	border-width: 5px;
+	border-style: dotted;
+	border-color: red;
+	width: 300px;
+	height: 200px;
+}
+
+#elem5 {
+	border-width: 2px;
+	border-style: dashed;
+	border-color: orange;
+	width: 300px;
+	height: 200px;
+}
+
+#elem6 {
+	border-width: 10px;
+	border-style: double;
+	border-color: blue;
+	width: 300px;
+	height: 200px;
+}
+#zadanie-97_1 {
+	border: 1px solid red;
+	width: 300px;
+	height: 200px;
+}
+#zadanie-97_2 {
+	border: 2px dotted blue;
+	width: 300px;
+	height: 200px;
+}
+#zadanie-97_3 {
+	border: 3px dashed green;
+	width: 300px;
+	height: 200px;
+}
+#zadanie-97_4 {
+	border: 5px double orange;
+	width: 300px;
+	height: 200px;
+}
+#zadanie-98_1 {
+	width: 300px;
+    height: 200px;
+    border-top: 3px solid blue;
+    border-left: 3px solid orange;
+    border-right: 3px solid green;
+    border-bottom: 3px solid red;
+}
+#zadanie-98_2 {
+	width: 300px;
+    height: 200px;
+    border-top: 1px solid blue;
+    border-left: 3px solid red;
+    border-right: 3px dotted green;
+    border-bottom: 1px solid blue;
+}
+
+#zadanie-99_1 {
+	width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 30px;
+}
+#zadanie-100_1 {
+	width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 30px;
+    background-color: rgb(0, 255, 128);
+}
+
+#zadanie-101_1 {
+    width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	border: 1px solid green;
+}
+#zadanie-103_1{
+width: 200px;
+height: 200px;
+border: 1px solid green;
+border-radius: 10px 30px 40px 50px;
+}
+#zadanie-104_1{
+width: 200px;
+height: 200px;
+border: 1px solid green;
+border-radius: 10px 30px;
+}
+#zadanie-105_1{
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 10px 30px 20px;
+ }
+ #zadanie-107_1{
+    width: 100px;
+	height: 100px;
+	border: 1px solid green;
+	border-radius: 50%;
+ }
+
+#zadanie-108_1{
+    background-image: url("bg.png");
+ }
+.zadanie-112_1 ul {
+	list-style-type: square;
+}
+.zadanie-113_1 ul {
+        list-style-type: circle;
+}
+
+.zadanie-115_1 ul {
+	list-style-type: none;
+}
+.zadanie-119_1 ol {
+    list-style-type: lower-alpha;
+}
+.zadanie-120_1 ol {
+    list-style-type: upper-alpha;
+}
+.zadanie-121_1 ol {
+    list-style-type: lower-greek;
+}
+.zadanie-122_1 ol {
+    list-style-type: decimal-leading-zero;
+}

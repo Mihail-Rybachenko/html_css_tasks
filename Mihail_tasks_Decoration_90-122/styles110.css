@@ -1,0 +1,45 @@
+#positionAndSize{
+	background-image: url("nature.png");
+    background-position: center bottom;
+	background-repeat: no-repeat;
+    background-size: 400px;
+	border: 5px solid rgb(0, 128, 43);
+    width: 250px;
+	height: 250px;
+}
+#backgroundAndAttachment{
+    width: 400px;
+    height: 400px;
+    border: 4px solid rgb(19, 0, 128);
+    background-image: url(nature.png);
+    background-repeat: repeat;
+    background-size: 400px 500px;
+    background-attachment: fixed;
+
+}
+#backgroundAndAttachment p{
+    width: 400px;
+	margin: 0 auto;
+	font-size: 20px;
+    font-weight: bold;
+    color: greenyellow;
+}
+#Origin{
+    background-image: url(nature.png);
+    background-origin: border-box;
+    background-repeat: no-repeat;
+    background-position: center left;
+	border: 15px double rgb(128, 100, 0);
+	padding: 45px;
+	width: 512px;
+	height: 256px;
+}
+#Clip {
+	background-color: blue;
+	background-clip: border-box;
+	border: 10px dashed black;
+	padding: 30px;
+	width: 250px;
+	height: 150px;
+    color: red;
+}
