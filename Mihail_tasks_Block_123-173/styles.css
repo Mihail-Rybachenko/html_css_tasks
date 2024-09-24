@@ -1,0 +1,419 @@
+#parent {
+	width: 400px;
+    height: 400px;
+	border: 1px dashed blue;
+}
+
+#child {
+	height: 300px;
+    width: 300px;
+	border: 1px solid orange;
+	margin: 40px;
+}
+#parent1 {
+	width: 400px;
+	border: 1px dashed blue;
+}
+
+#child1 {
+	border: 1px dashed green;
+    margin: 25px;
+}
+#baby1{
+    height: 200px;
+	border: 1px solid red;
+	margin: 25px;
+}
+#parent2 {
+	width: 200px;
+	border: 1px solid red;
+}
+
+#child2 {
+	height: 100px;
+	border: 1px solid green;
+	margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+#parent3 {
+	width: 200px;
+	border: 1px solid red;
+}
+
+#child3 {
+	height: 100px;
+	border: 1px solid green;
+	margin-top: 50px;
+    margin-right: 24px;
+    margin-left: 24px;
+    margin-bottom: 50px;
+}
+
+#parent4 {
+	width: 200px;
+	border: 1px solid red;
+}
+
+#child4 {
+	height: 100px;
+	border: 1px solid green;
+	margin-top: 20px;
+    margin-right: 70px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+#parent5 {
+	width: 200px;
+	border: 1px solid orange;
+}
+
+#child5 {
+	height: 50px;
+	border: 1px dashed blue;
+	margin: 25px 50px 70px 10px;
+}
+#parent6 {
+	width: 200px;
+	border: 1px solid orange;
+}
+
+#child6 {
+	height: 50px;
+	border: 1px dashed blue;
+	margin: 100px 50px;
+}
+#parent7 {
+	width: 200px;
+	border: 1px solid orange;
+}
+
+#child7 {
+	height: 50px;
+	border: 1px dashed blue;
+	margin: 25px 50px;
+}
+#parent8 {
+	width: 200px;
+	border: 1px solid orange;
+}
+
+#child8 {
+	height: 50px;
+	border: 1px dashed blue;
+	margin: 100px 40px 30px;
+}
+#parent9 {
+	width: 400px;
+	border: 1px solid orange;
+}
+
+#child9 {
+	height: 50px;
+	border: 1px dashed blue;
+	margin: 30px 70px 50px;
+}
+
+#elem {
+	padding: 50px;
+	width: 200px;
+	border: 1px solid red;
+	text-align: justify;
+}
+#elem1 {
+	padding: 20px;
+	width: 500px;
+	border: 1px solid green;
+	text-align: justify;
+    margin-bottom: 30px;
+}
+#elem2 {
+	padding: 10px;
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+    margin-left: 50px;
+}
+#elem3 {
+	padding-top:    50px; 
+	padding-right:  30px; 
+	padding-bottom: 100px; 
+	padding-left:   30px;
+	
+	width: 200px;
+	border: 1px solid red;
+	text-align: justify;
+}
+#elem4 {
+	padding-top:    10px; 
+	padding-right:  20px; 
+	padding-bottom: 25px; 
+	padding-left:   35px;
+	
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+}
+#elem5 {
+	padding: 60px 30px;
+	
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+}
+#elem6 {
+	padding: 10px 18px 40px;
+	
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+}
+#elem7 {
+	padding: 10px 50px 40px;
+	width: 200px;
+	border: 1px solid red;
+	text-align: justify;
+	box-sizing: border-box;
+}
+#zadanie146{
+	color: rgb(47, 71, 255);
+}
+#zadanie147-1
+{
+	width: 200px;
+	height: 200px;
+	border: 1px solid red;
+	display: inline;
+}
+#zadanie147-2
+{
+	width: 200px;
+	height: 200px;
+	border: 1px solid red;
+	display: block;
+	margin-bottom: 30px;
+}
+div.elem12{
+		width: 100px;
+		height: 100px;
+		border: 1px solid red;
+		display: inline-block;
+	}
+	.parentt {
+		border: 1px solid red;
+	}
+	
+	.child01{
+		height: 100px;
+		width: 100px;
+		border: 1px solid green;
+		margin: 10px auto;
+	}
+	.child02{
+		height: 100px;
+		width: 200px;
+		border: 1px solid green;
+		margin: 10px auto;
+	}
+	.child03{
+		height: 100px;
+		width: 300px;
+		border: 1px solid green;
+		margin: 10px auto;
+	}
+
+	.parents {
+		padding: 10px 0;
+		border: 1px solid red;
+		text-align: center;
+	}
+	.parentq {
+		padding: 10px 0;
+		border: 1px solid red;
+		text-align: right;
+		
+	}
+	.parentqs {
+		padding: 10px 20px;
+		border: 1px solid red;
+		text-align: right;
+		
+	}
+	.parenty {
+		padding: 10px 0;
+		border: 1px solid red;
+		text-align: center;
+	}
+	.childy {
+		padding: 10px;
+		border: 1px solid green;
+		display: inline-block;
+		margin: 5px;
+	}
+	.parentp {
+		text-align: right;
+		padding: 10px 0;
+		border: 1px solid red;
+	}
+	.childp {
+		display: inline-block;
+		padding: 10px 20px;
+		border: 1px solid green;
+	}
+	.parentp1 {
+		text-align: right;
+		padding: 10px 0;
+		border: 1px solid red;
+		padding-right: 20px;
+	}
+	.childp1 {
+		display: inline-block;
+		padding: 10px 20px;
+		border: 1px solid green;
+	}
+	.parentp2 {
+		text-align: right;
+		padding: 10px 0;
+		border: 1px solid red;
+		
+	}
+	.childp2 {
+		display: inline-block;
+		padding: 10px 20px;
+		border: 1px solid green;
+		margin-right: 20px;
+	}
+	.parentp3 {
+		text-align: right;
+		padding: 10px 0;
+		border: 1px solid red;
+		
+	}
+	.childp3 {
+		display: inline-block;
+		border: 1px solid green;
+		padding: 10px;
+		width: 150px;
+	}
+
+	.parentp4 {
+		text-align: right;
+		padding: 10px 0;
+		border: 1px solid red;
+		
+	}
+	.childp4 {
+		display: inline-block;
+		border: 1px solid green;
+		padding: 10px;
+		width: 150px;
+		text-align: center;
+	}
+	.parent163 {
+		display: flex;
+		width: 900px;
+		height: 400px;
+		border: 1px solid red;
+	}
+	.child163 {
+		width: 120px;
+		height: 60px;
+		border: 1px solid green;
+	}
+	.parent164 {
+		display: flex;
+		width: 900px;
+		border: 1px solid red;
+	}
+	.child164 {
+		width: 120px;
+		height: 100px;
+		border: 1px solid green;
+	}
+	.parent165 {
+		display: flex;
+		border: 1px solid red;
+	}
+	.child165 {
+		width: 120px;
+		height: 60px;
+		border: 1px solid green;
+	}
+	.parent166 {
+		display: inline-flex;
+		border: 1px solid red;
+	}
+	.child166 {
+		width: 120px;
+		height: 60px;
+		border: 1px solid green;
+	}
+	.parent167 {
+		display: inline-flex;
+		border: 1px solid red;
+		padding: 20px;
+	}
+	.child167 {
+		width: 120px;
+		height: 60px;
+		border: 1px solid green;
+	}
+	.parent168 {
+		display: inline-flex;
+		border: 1px solid red;
+	}
+	.child168 {
+		width: 120px;
+		height: 60px;
+		border: 1px solid green;
+		margin: 30px;
+	}
+	.parent170 {
+		display: flex;
+		border: 1px solid red;
+		justify-content: center;
+		width: 850px;
+		height: 400px;
+	}
+	.child170 {
+		width: 120px;
+		height: 60px;
+		border: 1px solid green;
+	}
+	.parent171 {
+		display: flex;
+		border: 1px solid red;
+		justify-content: space-between;
+		width: 850px;
+		height: 400px;
+	}
+	.child171 {
+		width: 120px;
+		height: 60px;
+		border: 1px solid green;
+	}
+	.parent172 {
+		display: flex;
+		border: 1px solid red;
+		justify-content: space-around;
+		width: 850px;
+		height: 400px;
+	}
+	.child172 {
+		width: 120px;
+		height: 60px;
+		border: 1px solid green;
+	}
+	.parent173 {
+		display: flex;
+		border: 1px solid red;
+		justify-content: space-evenly;
+		width: 850px;
+		height: 400px;
+	}
+	.child173 {
+		width: 120px;
+		height: 60px;
+		border: 1px solid green;
+	}
