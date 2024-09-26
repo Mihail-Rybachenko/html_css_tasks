@@ -1,0 +1,112 @@
+.ff{
+float: left;
+}
+.df{
+float: right;
+}
+.fd p{
+	width: 400px;
+	text-align: justify;
+}
+.zadanie191{
+        width: 590px;
+        padding: 20px;
+        margin: 0 auto;
+        border: 1px solid black;
+        text-align: justify;
+}
+
+#picture1 {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+#picture2 {
+    float: right;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+h1{
+    text-align: center;
+}
+#parent200_1 {
+    width: 800px;
+    padding: 20px;
+    border: 1px solid black;
+    text-align: justify;
+    margin: 0 auto;
+}
+
+#child200_1 {
+    float: right;
+    width: 100px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border: 1px solid green;
+}
+#parent201_1 {
+    width: 800px;
+    padding: 20px;
+    border: 1px solid black;
+    text-align: justify;
+    margin: 0 auto;
+}
+
+#parent201_1 {
+    width: 800px;
+    padding: 20px;
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: justify;
+}
+
+#child201_1, #child201_2 {
+    float: right;
+    width: 130px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border: 1px solid green;
+    text-align: center;
+}
+.parentdd {
+	width: 100%;
+	border: 1px solid black;
+	text-align: justify;
+    padding-left: 20px;
+}
+.childdd {
+	float: left;
+	width: 100px;
+	height: 50px;
+	border: 1px solid green;
+    text-align: center;
+    margin: 20px 10px;
+}
+
+.clearfix {
+	clear: both;
+}
+.parentddd {
+	width: 100%;
+	border: 1px solid black;
+	text-align: justify;
+    padding-right: 20px;
+}
+.childddd {
+	float: right;
+	width: 100px;
+	height: 50px;
+	border: 1px solid green;
+    text-align: center;
+    margin: 20px 10px;
+}
+
+.clearfix {
+	clear: both;
+}
