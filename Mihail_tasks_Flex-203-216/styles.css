@@ -1,0 +1,130 @@
+.ananas{
+    border: 1px solid red;
+    width: 700px;
+    height: 300px;
+    display: flex;
+}
+.apple{
+    
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas1{
+    border: 1px solid red;
+    width: 700px;
+    height: 300px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.apple1{
+    
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas2{
+    border: 1px solid red;
+    width: 700px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+}
+.apple2{
+    
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas3{
+    border: 1px solid red;
+    width: 700px;
+    height: 350px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.apple3{
+    
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas4{
+    border: 1px solid red;
+    width: 700px;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.apple4{
+    
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas5{
+    border: 1px solid red;
+    width: 700px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.apple5{
+    
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas6{
+    border: 1px solid red;
+    width: 700px;
+    height: 350px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+}
+.apple6{
+    
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas7{
+    border: 1px solid red;
+    width: 700px;
+    height: 350px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+.apple7{
+    
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas8{
+    border: 1px solid red;
+    width: 700px;
+    height: 350px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+}
+.apple8{
+    
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    
+}
