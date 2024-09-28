@@ -128,3 +128,478 @@
     border: 1px solid green;
     
 }
+.ananas9{
+    border: 1px solid red;
+    width: 700px;
+    height: 350px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+}
+.apple9{
+    
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas10{
+    border: 1px solid red;
+    width: 700px;
+    height: 350px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+    align-items: flex-end;
+
+}
+.apple10{
+    
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas11{
+    border: 1px solid red;
+    width: 700px;
+    height: 350px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+    align-items: flex-start;
+
+}
+.apple11{
+    
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas12{
+    border: 1px solid red;
+    width: 700px;
+    height: 350px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-start;
+    align-items: flex-end;
+
+}
+.apple12{
+    
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas13{
+    border: 1px solid red;
+    width: 700px;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+
+}
+.apple13{
+    
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas14{
+    border: 1px solid red;
+    width: 500px;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0px 100px;
+}
+.apple14{
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas15{
+    border: 1px solid red;
+    width: 500px;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+    padding: 0px 100px;
+}
+.apple15{
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas16{
+    border: 1px solid red;
+    width: 500px;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px 100px;
+}
+.apple16{
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas17{
+    border: 1px solid red;
+    width: 500px;
+    height: 350px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px 100px;
+}
+.apple17{
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas18{
+    border: 1px solid red;
+    width: 700px;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+.apple18{
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas19{
+    border: 1px solid red;
+    width: 700px;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.apple19{
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas20{
+    border: 1px solid red;
+    width: 700px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.apple20{
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas21{
+    border: 1px solid red;
+    width: 700px;
+    height: 350px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    
+}
+.apple21{
+    width: 100px;
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas22{
+    border: 1px solid red;
+    width: 700px;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    
+}
+.apple22{
+    width: 100px;
+    border: 1px solid green;
+    
+}
+.ananas23{
+    border: 1px solid red;
+    width: 700px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    
+}
+.apple23{
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas24{
+    border: 1px solid red;
+    width: 700px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    
+}
+.apple24{
+    height: 50px;
+    border: 1px solid green;
+    
+}
+.ananas25{
+    border: 1px solid red;
+    width: 800px;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    
+}
+.apple25{
+    height: 50px;
+    width: 100px;
+    border: 1px solid green;
+    
+}
+.ananas26{
+    border: 1px solid red;
+    width: 800px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    
+}
+.apple26{
+    height: 50px;
+    width: 100px;
+    border: 1px solid green;
+    
+}
+.ananas27{
+    border: 1px solid red;
+    width: 800px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    
+}
+.apple27{
+    height: 50px;
+    width: 100px;
+    border: 1px solid green;
+    
+}
+.ananas28{
+    border: 1px solid red;
+    width: 800px;
+    height: 350px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: flex-end;
+    
+}
+.apple28{
+    height: 50px;
+    width: 100px;
+    border: 1px solid green;
+    
+}
+.ananas29{
+    border: 1px solid red;
+    width: 800px;
+    height: 350px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: flex-start;
+    
+}
+.apple29{
+    height: 50px;
+    width: 100px;
+    border: 1px solid green;
+    
+}
+.ananas30{
+    border: 1px solid red;
+    width: 800px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    
+}
+.apple30{
+    height: 50px;
+    width: 100px;
+    border: 1px solid green;
+    
+}
+.ananas31{
+    border: 1px solid red;
+    width: 800px;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    
+}
+.apple31{
+    height: 50px;
+    width: 100px;
+    border: 1px solid green;
+    
+}
+.ananas32{
+    border: 1px solid red;
+    width: 800px;
+    height: 350px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    align-items: flex-end;
+    
+}
+.apple32{
+    height: 50px;
+    width: 100px;
+    border: 1px solid green;
+    
+}
+.ananas33{
+    border: 1px solid red;
+    width: 800px;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    
+}
+.apple33{
+    height: 50px;
+    width: 100px;
+    border: 1px solid green;
+    margin: 0px auto;
+}
+.ananas34{
+    border: 1px solid red;
+    width: 800px;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+.apple34{
+    height: 50px;
+    width: 100px;
+    border: 1px solid green;
+}
+.cherry{
+    align-self: flex-end;
+}
+.ananas35{
+    border: 1px solid red;
+    width: 800px;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    
+}
+.apple35{
+    
+    width: 100px;
+    border: 1px solid green;
+}
+.cherry1{
+    align-self: center;
+}
+.ananas36{
+    border: 1px solid red;
+    width: 800px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.apple36{
+    height: 50px;
+    width: 100px;
+    border: 1px solid green;
+}
+.cherry2{
+    align-self: center;
+}
+.ananas37{
+    border: 1px solid red;
+    width: 800px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.apple37{
+    height: 50px;
+    width: 100px;
+    border: 1px solid green;
+}
+.cherry3{
+    border: 1px solid red;
+    order: 3;
+}
+.cherry4{
+    border: 1px solid orange;
+    order: 4;
+}
