@@ -394,7 +394,6 @@
 }
 #parent30 {
 	display: grid;
-    grid-template-columns: 1fr 1fr;
 	border: 2px solid #696989;
 	padding: 10px;
     width: 400px;
@@ -404,6 +403,7 @@
 	padding: 10px;
 	border: 1px solid #696989;
 }
+
 #character11{
     grid-row: 1/2;
 }
@@ -418,4 +418,248 @@
 }
 #character15{
     grid-row: 3/5;
+}
+#character16{
+    grid-column: 1/2;
+}
+#character17{
+    grid-column: 2/4;
+}
+#character18{
+    grid-column: 1/3;
+}
+#character19{
+    grid-column: 3/4;
+}
+#character20{
+    grid-column: 1/4;
+}
+#character21{
+    grid-column: 1/2;
+}
+#character22{
+    grid-column: 2/3;
+}
+#character23{
+    grid-column: 3/4;
+}
+#character24{
+    grid-column: 1/4;
+}
+#character25{
+    grid-column: 1/2;
+}
+#character26{
+    grid-column: 2/5;
+}
+#character27{
+    grid-column: 5/6;
+}
+#character28{
+    grid-column: 1/3;
+}
+#character29{
+    grid-column: 3/6;
+}
+#character30{
+    grid-column: 1/4;
+}
+#character31{
+    grid-column: 4/6;
+}
+#parent31 {
+	display: grid;
+	border: 2px solid #696989;
+	padding: 10px;
+    width: 400px;
+    height: 300px;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+#parent31 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
+
+#character32{
+    grid-column: 1/2;
+}
+#character33{
+    grid-column: 2/3;
+}
+#character34{
+    grid-column: 3/4;
+}
+#character35{
+    grid-column: 1/3;
+}
+#character36{
+    grid-column: 3/5;
+}
+#character37{
+    grid-column: 1/6;
+}
+#character38{
+	grid-row: 1 / 3;
+	grid-column: 1 / 3;
+}
+#character39{
+    grid-row: 1 / 2;
+  grid-column: 3 / 4;
+}
+#character40{
+    grid-row: 2 / 3;
+  grid-column: 3 / 4;
+}
+#character41{
+	grid-row: 3 / 4;
+	grid-column: 2 / 4;
+}
+#character42{
+	grid-row: 3 / 4;
+	grid-column: 1 / 2;
+}
+#character43{
+    grid-row: 4 / 6;
+  grid-column: 1 / 4;
+}
+#parent32 {
+	display: grid;
+	border: 2px solid #696989;
+	padding: 10px;
+    width: 400px;
+    height: 300px;
+}
+#parent32 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
+#character44{
+	grid-column: 1 / 3;
+}
+#character45{
+	grid-column: 2 / 4;
+}
+#character46{
+  grid-column: 3 / 5;
+}
+#character47{
+	grid-column:  1 / 3;
+}
+#character48{
+	grid-column: 2 / 5;
+}
+#character49{
+  grid-column: 1 / 4;
+}
+#character50{
+	grid-column: 3 / 5;
+}
+#character51{
+	grid-column: 1 / 4;
+}
+#character52{
+	grid-column:  1 / 3;
+}
+#character53{
+	grid-column: 3 / 5;
+}
+#character54{
+  grid-column: 2 / 4;
+}
+#character55{
+	grid-column: 1 / 3;
+}
+#character56{
+	grid-column: 2 / 5;
+}
+#parent33 {
+	display: grid;
+	column-gap: 20%;
+	grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+	padding: 10px;
+	border: 2px solid #696989;
+	width: 600px;
+	height: 200px;
+}
+#parent33 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
+#parent34 {
+	display: grid;
+	row-gap: 25%;
+	grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+	padding: 10px;
+	border: 2px solid #696989;
+	width: 600px;
+	height: 200px;
+}
+#parent34 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
+#parent35 {
+	display: grid;
+	gap: 10px;
+	grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+	padding: 10px;
+	border: 2px solid #696989;
+	width: 600px;
+	height: 200px;
+}
+#parent35 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
+#parent36 {
+	display: grid;
+	gap: 10px 5%;
+	grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+	padding: 10px;
+	border: 2px solid #696989;
+	width: 600px;
+	height: 200px;
+}
+#parent36 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
+#parent37 {
+	width: 600px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    border: 2px solid #696989;
+}
+
+#parent37 > div {
+	height: 100px;
+	padding: 10px;
+	border: 1px solid #696989;
+}
+#parent38 {
+	width: 600px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr 4fr;
+    grid-gap: 10px;
+    border: 2px solid #696989;
+}
+
+#parent38 > div {
+	height: 100px;
+	padding: 10px;
+	border: 1px solid #696989;
+}
+#parent39 {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-gap: 10px;
+	border: 2px solid #696989;
+	width: 600px;
+}
+
+#parent39 > div {
+	height: 100px;
+	padding: 10px;
+	border: 1px solid #696989;
 }
